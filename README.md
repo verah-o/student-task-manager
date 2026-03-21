@@ -27,3 +27,5 @@ A web app to help students manage their daily tasks. Users can add tasks, mark t
 3. Click a task once to mark it complete  
 4. Double-click a task to delete it  
 5. Tasks are saved even after refreshing the page
+
+![Student Task Manager Screenshot](screenshot2026-03-21_230313.png)
