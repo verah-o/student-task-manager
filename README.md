@@ -30,4 +30,4 @@ A web app to help students manage their daily tasks. Users can add tasks, mark t
 
 ![Student Task Manager Screenshot](https://github.com/verah-o/student-task-manager/blob/main/Screenshot%202026-03-22%20174447.png)
 
-[Click here]()
+[Click here](https://github.com/verah-o/student-task-manager.git)
