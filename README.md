@@ -29,3 +29,5 @@ A web app to help students manage their daily tasks. Users can add tasks, mark t
 5. Tasks are saved even after refreshing the page
 
 ![Student Task Manager Screenshot](https://github.com/verah-o/student-task-manager/blob/main/Screenshot%202026-03-22%20174447.png)
+
+[Click here]()
